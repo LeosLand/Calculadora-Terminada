@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Mi Calculadora</string>
+    <string name="app_name">Mi Calculator</string>
     <string name="NumberZero">0</string>
     <string name="NumberOne">1</string>
     <string name="NumberTwo">2</string>
